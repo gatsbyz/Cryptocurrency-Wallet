@@ -17,3 +17,5 @@
 * Review the transaction hash code associated with the validated blockchain transaction.
 
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details.
+
+![ScreenShot](screenshot.png)
